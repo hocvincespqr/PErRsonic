@@ -1,3 +1,0 @@
-songs_ordered = sorted( song_to_count.keys(), 
-                        key=lambda s: song_to_count[s],
-                        reverse=True)
